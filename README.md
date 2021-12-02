@@ -1,0 +1,2 @@
+# evaluare
+LAB 6
