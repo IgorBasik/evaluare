@@ -1,2 +1,1 @@
-# evaluare
-LAB 6
+# cv
