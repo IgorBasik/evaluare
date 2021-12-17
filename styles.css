@@ -13,3 +13,8 @@ font-family: 'Roboto', sans-serif;
 /* font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
 
 }
+
+.autor {
+    width: 200px;
+    border-radius: 28px;
+}
